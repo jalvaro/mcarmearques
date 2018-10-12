@@ -51,7 +51,7 @@
 
     $(function () {
         element.typed({
-            strings: ["Mestra jubilada.", "Apassionada de la història.", "Cercant les arrels de la meva família!"],
+            strings: ["Mestra.", "Cercant les arrels de la meva família!"],
             typeSpeed: 100,
             loop: true,
             autoplay: true,
