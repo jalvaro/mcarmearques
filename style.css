@@ -327,7 +327,7 @@ button:focus {
 .hero-content {
     position: absolute;
     z-index: 999;
-    max-width: 40%;
+    max-width: 36%;
 }
 
 

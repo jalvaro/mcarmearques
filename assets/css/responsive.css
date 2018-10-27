@@ -111,10 +111,10 @@
     }
 
     .hero-aria::after {
-        width: 80%;
+        width: 50%;
     }
     .hero-content {
-        max-width: 70%;
+        max-width: 50%;
     }
 
     /*::::::::::::::::::::::::::::::::::::
@@ -274,10 +274,10 @@
     }
 
     .hero-aria::after {
-        width: 70%;
+        width: 50%;
     }
     .hero-content {
-        max-width: 65%;
+        max-width: 42%;
     }
     /*::::::::::::::::::::::::::::::::::::
        Portfolio Section
