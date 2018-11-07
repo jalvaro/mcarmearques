@@ -51,7 +51,12 @@
 
     $(function () {
         element.typed({
-            strings: ["Mestra.", "Estudiosa de la genealogia.", "Cercant les arrels de la meva família!", "La feina ben feta no té fronteres."],
+            strings: [
+                "Mestra.",
+                "Estudiosa de la genealogia.",
+                "Cercant les arrels de la meva família!",
+                "A mesura que ens endinsem en el túnel de la nostra història, se'ns obren horitzons infinits..."
+            ],
             typeSpeed: 100,
             loop: true,
             autoplay: true,
